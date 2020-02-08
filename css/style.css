@@ -1,0 +1,109 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    font-family: arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.floatRight {
+    float: right;
+    margin-right: 30px;
+    margin-top: 36px;
+}
+
+.topNav {
+    float: left;
+}
+
+.rounded {
+    border-radius: 50%;
+    background-color: coral;
+    color: #fff;
+    padding: 8px 13px !important;
+    margin-right: 15px;
+}
+
+.round {
+    border-radius: 30px;
+    border: 1.2px solid #eee;
+    padding: 15px 20px 15px 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 5;
+    width: 555px;
+}
+
+.search-icon {
+    color: #4285F4;
+    position: absolute;
+    top: 15px;
+    left: 520px;
+    z-index: 6;
+}
+
+.fa-microphone {
+    color: #4285F4;
+    position: absolute;
+    top: 16px;
+    left: 485px;
+    z-index: 6;
+}
+
+input::value {
+    padding-left: 10px;
+}
+
+.rightul li {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 12px;
+}
+
+ul li {
+    list-style: none;
+    text-decoration: none;
+    padding: 12px;
+}
+
+.li-one {
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.input-holder {
+    position: absolute;
+    top: 30px;
+    left: 170px;
+}
+
+.menu-div {
+    position: absolute;
+    top: 90px;
+    margin-left: 179px;
+}
+
+.menu-div ul li {
+    display: inline-block;
+}
+
+.fa-style {
+    padding-right: 5px;
+}
+
+hr {
+    width: 100%;
+    position: absolute;
+    top: 52%;
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
