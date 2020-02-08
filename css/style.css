@@ -42,14 +42,14 @@ a {
     top: 0;
     left: 0;
     z-index: 5;
-    width: 555px;
+    width: 670px;
 }
 
 .search-icon {
     color: #4285F4;
     position: absolute;
     top: 15px;
-    left: 520px;
+    left: 630px;
     z-index: 6;
 }
 
@@ -57,7 +57,7 @@ a {
     color: #4285F4;
     position: absolute;
     top: 16px;
-    left: 485px;
+    left: 580px;
     z-index: 6;
 }
 
@@ -98,16 +98,43 @@ ul li {
     display: inline-block;
 }
 
+.menu-div small {
+    color: grey;
+}
+
+.activehr {
+    width: 57px;
+    border-top: 1.5px solid blue;
+    border-bottom: 1.5px solid blue;
+    margin-top: 2px;
+}
+
 .fa-style {
     padding-right: 5px;
     color: grey;
     font-size: 10px;
 }
 
-hr {
+.active-small {
+    color: blue;
+}
+
+.settings {
+    margin-left: 70px;
+}
+
+.tools {
+    padding: 5px;
+}
+
+.tools:hover {
+    border: 1px solid grey;
+}
+
+.hr {
     width: 100%;
     position: absolute;
-    top: 52%;
+    top: 37%;
     border: 0;
     height: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
