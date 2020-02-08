@@ -8,6 +8,10 @@ body {
     font-family: arial, sans-serif;
 }
 
+.main-div {
+    margin-top: -19px;
+}
+
 a {
     text-decoration: none;
 }
@@ -15,7 +19,7 @@ a {
 .floatRight {
     float: right;
     margin-right: 30px;
-    margin-top: 36px;
+    margin-top: 47px;
 }
 
 .topNav {
@@ -74,13 +78,13 @@ ul li {
 }
 
 .li-one {
-    margin-top: 25px;
+    margin-top: 35px;
     margin-left: 20px;
 }
 
 .input-holder {
     position: absolute;
-    top: 30px;
+    top: 25px;
     left: 170px;
 }
 
