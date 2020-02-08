@@ -102,6 +102,14 @@ ul li {
     color: grey;
 }
 
+.resultsdive {
+    position: absolute;
+    top: 44%;
+    left: 14%;
+    color: grey;
+    font-size: 15px;
+}
+
 .activehr {
     width: 57px;
     border-top: 1.5px solid blue;
