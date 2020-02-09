@@ -116,7 +116,7 @@ ul li {
 }
 
 .active-small {
-    color: blue;
+    color: #2E75D7;
 }
 
 .settings {
@@ -167,7 +167,7 @@ ul li {
 }
 
 .SEOview {
-    color: blue;
+    color: #4351AC;
 }
 
 .SEOview p {
@@ -208,7 +208,7 @@ ul li {
 
 .title {
     display: block;
-    color: blue;
+    color: #4351AC;
     margin-left: 18px;
     font-size: 20px;
 }
