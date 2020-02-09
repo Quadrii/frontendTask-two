@@ -190,3 +190,13 @@ ul li {
     display: block;
     color: grey;
 }
+
+.component-one {
+    position: absolute;
+    top: 52%;
+}
+
+.component-two {
+    position: absolute;
+    top: 70%;
+}
