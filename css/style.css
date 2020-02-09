@@ -206,6 +206,27 @@ ul li {
     top: 580px;
 }
 
+.component-four {
+    position: absolute;
+    top: 930px;
+}
+
+.component-five {
+    position: absolute;
+    top: 1035px;
+}
+
+.component-six {
+    position: absolute;
+    top: 1140px;
+}
+
+.component-seven {
+    position: absolute;
+    top: 1250px;
+    clear: both;
+}
+
 .title {
     display: block;
     color: #4351AC;
@@ -229,4 +250,41 @@ ul li {
 
 .quadri-images li img {
     border-radius: 5px;
+}
+
+.more-images {
+    position: absolute;
+    top: 873px;
+    left: 170px;
+}
+
+.report {
+    position: absolute;
+    top: 873px;
+    left: 782px;
+}
+
+.report a {
+    color: grey;
+}
+
+.logo-div {
+    position: absolute;
+    top: 1300px;
+    left: 170px;
+}
+
+.logo-div {
+    position: absolute;
+    top: 1400px;
+    left: 170px;
+}
+
+.footer {
+    background-color: #F2F2F2;
+    width: 100%;
+    position: absolute;
+    top: 1300px;
+    height: 100px;
+    clear: both;
 }
