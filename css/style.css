@@ -61,8 +61,8 @@ a {
     z-index: 6;
 }
 
-input::value {
-    padding-left: 10px;
+input[value="Quadri Adisa"] {
+    font-size: 17px;
 }
 
 .rightul li {
@@ -91,7 +91,7 @@ ul li {
 .menu-div {
     position: absolute;
     top: 90px;
-    margin-left: 179px;
+    margin-left: 184px;
 }
 
 .menu-div ul li {
@@ -100,14 +100,6 @@ ul li {
 
 .menu-div small {
     color: grey;
-}
-
-.resultsdive {
-    position: absolute;
-    top: 44%;
-    left: 14%;
-    color: grey;
-    font-size: 15px;
 }
 
 .activehr {
@@ -142,9 +134,59 @@ ul li {
 .hr {
     width: 100%;
     position: absolute;
-    top: 37%;
+    top: 20%;
     border: 0;
     height: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.resultsdive {
+    position: absolute;
+    top: 25%;
+    left: 14%;
+    color: grey;
+    font-size: 15px;
+}
+
+.profile-head {
+    position: absolute;
+    top: 32%;
+    left: 14%;
+}
+
+.linkedin {
+    color: grey;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.fa-chevron-right {
+    font-size: 10px;
+    color: grey;
+}
+
+.SEOview {
+    color: blue;
+}
+
+.SEOview p {
+    font-size: 20px;
+}
+
+.SEOview:hover {
+    text-decoration: underline;
+}
+
+.about {
+    width: 60%;
+    color: #3C4043;
+    margin-top: 5px;
+    line-height: 20px;
+    display: block;
+}
+
+.lastVisit {
+    display: block;
+    color: grey;
 }
