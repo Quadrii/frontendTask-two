@@ -57,7 +57,7 @@ a {
     color: #4285F4;
     position: absolute;
     top: 16px;
-    left: 580px;
+    left: 600px;
     z-index: 6;
 }
 
@@ -199,4 +199,34 @@ ul li {
 .component-two {
     position: absolute;
     top: 70%;
+}
+
+.component-three {
+    position: absolute;
+    top: 580px;
+}
+
+.title {
+    display: block;
+    color: blue;
+    margin-left: 18px;
+    font-size: 20px;
+}
+
+.title:hover {
+    text-decoration: underline;
+}
+
+.quadri-images {
+    position: absolute;
+    top: 700px;
+    left: 170px;
+}
+
+.quadri-images ul li {
+    display: inline-block;
+}
+
+.quadri-images li img {
+    border-radius: 5px;
 }
