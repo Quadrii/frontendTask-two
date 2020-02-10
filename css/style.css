@@ -139,19 +139,24 @@ ul li {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
-
-/* .resultsdive {
-    position: absolute;
-    top: 25%;
-    left: 14%;
+.resultsdive {
     color: grey;
-    font-size: 15px;
+    font-size: 17px;
+    margin-left: 185px;
+    margin-top: 20px;
 }
 
 .profile-head {
-    position: absolute;
-    top: 30%;
-    left: 14%;
+    margin-left: 182px;
+    margin-top: 15px;
+}
+
+.about {
+    width: 60%;
+    color: #3C4043;
+    margin-top: 5px;
+    line-height: 20px;
+    display: block;
 }
 
 .linkedin {
@@ -177,18 +182,13 @@ ul li {
     text-decoration: underline;
 }
 
-.about {
-    width: 60%;
-    color: #3C4043;
-    margin-top: 5px;
-    line-height: 20px;
-    display: block;
-}
-
 .lastVisit {
     display: block;
     color: grey;
 }
+
+
+/*
 
 .component-one {
     position: absolute;
