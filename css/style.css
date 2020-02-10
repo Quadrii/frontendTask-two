@@ -106,6 +106,10 @@ ul li {
     color: grey;
 }
 
+.menus:hover {
+    color: #4351AC;
+}
+
 .activehr {
     width: 57px;
     border-top: 1.5px solid blue;
