@@ -187,6 +187,47 @@ ul li {
     color: grey;
 }
 
+.quadri-images {
+    margin-top: 30px;
+    margin-left: 168px;
+}
+
+.quadri-images ul li {
+    display: inline-block;
+}
+
+.quadri-images li img {
+    border-radius: 5px;
+}
+
+.title {
+    display: block;
+    color: #4351AC;
+    margin-left: 18px;
+    font-size: 20px;
+}
+
+.title:hover {
+    text-decoration: underline;
+}
+
+.more-images {
+    margin-left: 162px;
+}
+
+.more-images .small {
+    font-size: 15px;
+}
+
+.report {
+    margin-left: 60%;
+    margin-top: -20px;
+}
+
+.report a {
+    color: grey;
+}
+
 
 /*
 
@@ -225,47 +266,6 @@ ul li {
     top: 1250px;
     margin-bottom: 20px;
     clear: both;
-}
-
-.title {
-    display: block;
-    color: #4351AC;
-    margin-left: 18px;
-    font-size: 20px;
-}
-
-.title:hover {
-    text-decoration: underline;
-}
-
-.quadri-images {
-    position: absolute;
-    top: 700px;
-    left: 170px;
-}
-
-.quadri-images ul li {
-    display: inline-block;
-}
-
-.quadri-images li img {
-    border-radius: 5px;
-}
-
-.more-images {
-    position: absolute;
-    top: 873px;
-    left: 170px;
-}
-
-.report {
-    position: absolute;
-    top: 873px;
-    left: 782px;
-}
-
-.report a {
-    color: grey;
 }
 
 .logo-div {
