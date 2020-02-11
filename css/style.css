@@ -238,6 +238,10 @@ ul li {
     color: grey;
 }
 
+.component-wrapper {
+    margin-top: -5px;
+}
+
 .component-one {}
 
 .component-four {
