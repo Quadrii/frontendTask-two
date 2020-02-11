@@ -162,7 +162,6 @@ ul li {
 }
 
 .about {
-    width: 50%;
     color: #3C4043;
     margin-top: 5px;
     line-height: 20px;
@@ -239,6 +238,7 @@ ul li {
 }
 
 .component-wrapper {
+    width: 50%;
     margin-top: -5px;
 }
 
